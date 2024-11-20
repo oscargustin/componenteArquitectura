@@ -1,6 +1,8 @@
 # componenteArquitectura
 
 instalar dependencias
+
+
 pip install -r requirements.txt
 --------------------------------------------------------------
 crear la base de datos a partir del archivo .sql:
